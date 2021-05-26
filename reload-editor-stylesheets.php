@@ -12,7 +12,7 @@
  * Author URI:  https://ccdzine.com/
  */
 
-namespace Reload_Editor_Styles;
+namespace CCD_Reload_Editor_Styles;
 
 class Reload_Editor_Styles {
 
