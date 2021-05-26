@@ -10,7 +10,6 @@
  * Version:     1.0.0
  * Author:      Controlled Chaos Design
  * Author URI:  https://ccdzine.com/
- * Author URI:  http://toscho.de
  */
 
 namespace Reload_Editor_Styles;
