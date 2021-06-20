@@ -19,8 +19,6 @@ class Reload_Editor_Styles {
 	/**
 	 * Constructor method
 	 *
-	 * Calls the parent constructor.
-	 *
 	 * @since  1.0.0
 	 * @access public
 	 * @return self
